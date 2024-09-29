@@ -1,0 +1,12 @@
+# ignoring all files
+*
+
+# excluded files 
+!.gitignore
+!README.md
+!/README.md
+!*/
+!*.py
+!*.sh
+!**/*.txt
+
